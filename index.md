@@ -22,3 +22,4 @@ I attended the [University of Southern California](https://www.usc.edu/) ✌️.
 * [Personal](https://www.thescottclan.org/jason/)
 * [LinkedIn](https://www.linkedin.com/in/jasoncscott/)
 * [GitHub](https://github.com/jasoncscott/)
+* [GitHub Pages](https://jasoncscott.github.io/)
