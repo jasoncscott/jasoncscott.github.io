@@ -5,6 +5,6 @@ pages:
     — mv .public public
   artifacts:
     paths:
-      — public
+      — public/
   rules:
     - if: $CI_COMMIT_BRANCH == "main"
