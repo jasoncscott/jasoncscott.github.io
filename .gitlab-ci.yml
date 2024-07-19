@@ -3,7 +3,7 @@ pages:
   environment: production
   script:
     - mkdir .public
-    - cp index.html .public
+    - cp *.html .public
     - rm -rf public
     - mv .public public
   artifacts:
